@@ -9,6 +9,8 @@ Perfection is the enemy of good, but optimization over time is how you get to pe
 I want to bring you along for the ride, so if you ever feel like I'm leaving you out, give me a firm nudge and tell me to slow down so you can hop on!
 
 # Helpful Skeptism, Get out of your comfort zone!
+> Get and stay out of your comfort zone. _Bob Parsons, CEO of GoDaddy_
+
 I'm always weary of people who say "we've always done it that way." I know, you've heard this before.. but yes, yes it is still a thing! People really do still say it! People are afraid of change, and they love to be comfortable in their chair every day where nothing exciting ever happens.
 
 How about the flip side? Some people have embrased the chaos a little too much and just take it on each and every day and never figure out a way to improve and wrangle in that chaos to something more manageable so they can spend there time where it counts: on inventing and making better products for the company.
@@ -21,3 +23,14 @@ I know, sounds crazy. I only say this because I expect it of myself, too. I love
 **Take logical risks.** If you think process can be improved or that customers will like something better. Prove it! Come up with a logical argument and let's experiment together. Like I said above, if you are not growing, you are dying. So, in order to grow, you have to take risks. Which leads me to..
 
 **Learn from your mistakes, strive to not make the same one twice.** Experiment and learn from the outcomes. 99% of things you try probably won't lead to anything, but that 1% can be the golden egg. Even in failure you should be learning things. Apply those learnings to your next experiment.
+
+# Teamwork & Management
+> Educate and train people good enough so they can leave; treat people good enough so they want to stay. _Richard Branson, CEO of Virgin_
+
+**I love to give and receive feedback.** Being a manager is a little give and a little take. It's fostering and building a relationship that matters, and isn't just all talk. One on ones are usually the easiest way to do this, but I will always make time for you, day or night, if you need it.
+
+**Education is an important part of one's career.** People do not automatically have potential, they must strive for it and grow it over time. I will push you to be better, think in a different way, and take on a different perspective. It's not for everyone, but you can achieve anything when you are continuously grow and learn.
+
+**Work / Life Balance is important, but getting harder and harder.** I understand the complications of the modern workplace. The line between work and personal life is almost non-existent these days. I don't really see it as that anymore, but rather try and be as accommodating as possible by allowing you to be as flexible as possible. That means I won't really look at hours worked, but I will look at metrics that matter the most. Quality throughput is one of the most important metrics, and we'll work on a goal that makes sense for you and the company together.
+
+We'll look at the work you do, and put you on a project that will give you the best opportunity to learn or teach others.
