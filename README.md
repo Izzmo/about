@@ -1,5 +1,8 @@
 # README
-This readme is intended for people who I work closely with. It is so those people can get to know me a little better by learning about my idiosyncrasies, personalities, and general quarks. Once you read it all, hopefully you know where I stand, and why I will or will not do various things that may drive you crazy.
+This readme is intended for people who I work closely with. The purpose of it for people can get to know me a little better by learning about my idiosyncrasies, personalities, and general quarks. I am told I can be a bit of an acquired taste. My goal for you is that you know what I stand for, and why I will or will not do various things that may drive you crazy, or may motivate you to the next level of your journey.
+
+# Storming
+Ever heard of (Tuckman's Stages of Group Development)[https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development]? Better known as _Forming, Storming, Norming, Performing_, I take full advantage of the _Storming_ phase. I think it's essential to learning more about yourself, your team, and how you interact with eachother, which leads to the team ultimately growing to and performing at their fullest potential. It leads to some akward conversations at times, and it's not cut out for every one (nor should it!), but I can guarantee you that you and the team will come out of stronger one the top perfomers in the industry.
 
 # Passionately Curious
 I will never stop coding or learning. I think of the addage "if you are not growing, you are dying." I apply that sentiment to pretty much everything I do. I love to do read articles mentioning some clever trick or better way to do something.
